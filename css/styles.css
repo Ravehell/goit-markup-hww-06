@@ -975,7 +975,7 @@ h3 {
     margin: 0 auto;
 }
 
-/* .lake{margin-left: 80px;} */
+/* lake{margin-left: 80px;} */
 .checkinp:checked+.checkk .checkspan {
     background-color: #404bbf;
     border: none;
